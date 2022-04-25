@@ -120,4 +120,19 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Action_LinkDocument" xml:space="preserve">
+    <value>Link document</value>
+  </data>
+  <data name="Action_LinkDocumentDescription" xml:space="preserve">
+    <value>Shows a list of all related documents</value>
+  </data>
+  <data name="Action_LinkDocumentHint" xml:space="preserve">
+    <value>Open the list of linked documents </value>
+  </data>
+  <data name="Action_LinkDocumentConfirmationMessage" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Action_LinkDocumentConfirmationDescription" xml:space="preserve">
+    <value />
+  </data>
 </root>
